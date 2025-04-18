@@ -1,0 +1,2 @@
+net.ali.ext.DaoImplV2
+net.ali.metier.MetierImpl
